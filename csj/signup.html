@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CSJ</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+</head>
+<body>
+<div id="container">
+  <header>
+    <div class="width">
+            <h1><a href="/">CS<span>J</span></a></h1>
+        </div>
+    </header>
+    <nav>
+    <div class="width">
+          <ul>
+                <li class="start"><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="#">TrackOrder</a></li>
+                <li><a href="#">Contact</a></li>
+                <li style="float:right;"><a href="#">Cart </a></li>
+                <li class="selected" style="float:right;"><a href="login.html">SignIn</a></li>
+            </ul>
+    </div>
+    </nav>
+
+    <div id="body" class="width">
+        
+        <section id="content">
+
+        <article>
+        <br><br>
+        <center>
+            <h2>CSJ SignUp</h2>    
+        </center>
+
+            <fieldset>
+                <legend>Registration Details</legend>
+                <form action="/csj/UserRegistration" method="get">
+                    <p><label for="role">Role:</label>
+                    <input name="role" id="role" value="" type="text" /></p>
+                    <p><label for="username">UserName:</label>
+                    <input name="username" id="username" value="" type="text" /></p>
+                    <p><label for="password">Password:</label>
+                    <input name="password" id="password" value="" type="Password" /></p>
+                    <p><input name="send" style="margin-left: 150px;" class="formbutton" value="SignUp" type="submit" /></p>
+
+                    <p>Already a Member? &nbsp; &nbsp;<a href="login.html">SignIn</a></p>
+                </form>
+            </fieldset>
+            
+            </article>
+        </section>
+        
+        <br><br>
+        <aside class="sidebar">
+
+           <ul> 
+               <li>
+                    <h4>Categories</h4>
+                    <ul>
+                        <li><a href="#">Smart Watches</a></li>
+                        <li><a href="#">Speakers</a></li>
+                        <li><a href="#">HeadPhones</a></li>
+                        <li><a href="#">Phones</a></li>
+                        <li><a href="#">Laptops</a></li>
+                        <li><a href="#">External Storage</a></li>
+                    </ul>
+                </li>
+                                
+            </ul>
+        
+        </aside>
+        <div class="clear"></div>
+    </div>
+    <footer>
+        <div class="footer-bottom">
+            <p>&copy; CSJ 2017. Online Retailer smart portables by Tanmaya Bhatt</p>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
