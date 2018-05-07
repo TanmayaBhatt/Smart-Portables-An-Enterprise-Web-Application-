@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductCatalog>
+<HeadphoneCatalog>
+    <headphone id="001" retailer="Beats">
+        <productname>Beats 1</productname>
+        <condition>New</condition>
+        <price>199</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>56</items>
+	<producttype>Headphones</producttype>
+	<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Beats1 aux cable</productname>
+			<price>29</price>
+			<image>aux.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Beats1 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Beats1 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="002" retailer="Beats">
+        <productname>Beats 2</productname>
+        <condition>New</condition>
+        <price>299</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>66</items>
+	<producttype>Headphones</producttype>
+	<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Beats2 aux cable</productname>
+			<price>29</price>
+			<image>aux.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Beats2 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Beats2 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="003" retailer="Beats">
+        <productname>Beats 3</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>Yes</sale>
+        <rebate>Yes</rebate>
+        <items>36</items>
+	<producttype>Headphones</producttype>
+	<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Beats3 aux cable</productname>
+			<price>29</price>
+			<image>aux.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Beats3 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Beats3 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="004" retailer="Beats">
+        <productname>Beats 4</productname>
+        <condition>New</condition>
+        <price>429</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>33</items>
+	<producttype>Headphones</producttype>
+	<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Beats4 aux cable</productname>
+			<price>29</price>
+			<image>aux.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Beats4 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Beats4 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="005" retailer="Beats">
+        <productname>Beats 5</productname>
+        <condition>New</condition>
+        <price>599</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>60</items>
+		<producttype>Headphones</producttype>
+		<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Beats5 aux cable</productname>
+			<price>29</price>
+            <sale>No</sale>
+            <rebate>No</rebate>
+			<image>aux.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Beats5 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Beats5 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="006" retailer="SkullCandy">
+        <productname>SkullCandy 1</productname>
+        <condition>New</condition>
+        <price>799</price>
+        <sale>Yes</sale>
+        <rebate>Yes</rebate>
+        <items>36</items>
+		<producttype>Headphones</producttype>
+		<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>SkullCandy1 aux splitter</productname>
+			<price>29</price>
+			<image>auxsplit.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>SkullCandy1 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>SkullCandy1 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="007" retailer="SkullCandy">
+        <productname>SkullCandy 2</productname>
+        <condition>New</condition>
+        <price>899</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>36</items>
+		<producttype>Headphones</producttype>
+		<image>earphones.jpg</image>
+    	<accessories>
+		<accessory id="001">
+			<productname>SkullCandy2 aux splitter</productname>
+			<price>29</price>
+			<image>auxsplit.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>SkullCandy2 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>SkullCandy2 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+    <headphone id="008" retailer="SkullCandy">
+        <productname>SkullCandy 3</productname>
+        <condition>New</condition>
+        <price>999</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>22</items>
+		<producttype>Headphones</producttype>
+		<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>SkullCandy3 aux splitter</productname>
+			<price>29</price>
+			<image>auxsplit.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>SkullCandy3 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>SkullCandy3 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+	<headphone id="009" retailer="SkullCandy">
+        <productname>SkullCandy 4</productname>
+        <condition>New</condition>
+        <price>1099</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>76</items>
+		<producttype>Headphones</producttype>
+		<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>SkullCandy4 aux splitter</productname>
+			<price>29</price>
+			<image>auxsplit.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>SkullCandy4 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>SkullCandy4 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+	<headphone id="010" retailer="SkullCandy">
+        <productname>SkullCandy 5</productname>
+        <condition>New</condition>
+        <price>1199</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>63</items>
+		<producttype>Headphones</producttype>
+		<image>earphones.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>SkullCandy5 aux splitter</productname>
+			<price>29</price>
+			<image>auxsplit.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>SkullCandy5 case</productname>
+			<price>29</price>
+			<image>case.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>SkullCandy5 ear cushion</productname>
+			<price>29</price>
+			<image>earcushion.jpg</image>
+		</accessory>
+	</accessories>
+    </headphone>
+</HeadphoneCatalog>
+<LaptopCatalog>
+    <laptop id="001" retailer="Apple">
+        <productname>MACBOOK PRO</productname>
+        <condition>New</condition>
+        <price>1399</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>25</items>
+		<producttype>Laptops</producttype>
+		<image>laptop3.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="002" retailer="Dell">
+        <productname>DEll 3000</productname>
+        <condition>New</condition>
+        <price>1299</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>36</items>
+		<producttype>Laptops</producttype>
+		<image>laptop1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Dell3000 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Dell3000 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Dell3000 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="003" retailer="Samsung">
+        <productname>Samsung 5000</productname>
+        <condition>New</condition>
+        <price>599</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>45</items>
+		<producttype>Laptops</producttype>
+		<image>laptop5.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="004" retailer="Asus">
+        <productname>Asus 7000</productname>
+        <condition>New</condition>
+        <price>229</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>26</items>
+		<producttype>Laptops</producttype>
+		<image>laptop6.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Asus mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Asus backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Asus keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="005" retailer="Microsoft">
+        <productname>Microsoft 300</productname>
+        <condition>New</condition>
+        <price>1699</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>96</items>
+		<producttype>Laptops</producttype>
+		<image>laptop7.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Microsoft300 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Microsoft300 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Microsoft300 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="006" retailer="Microsoft">
+        <productname>Microsoft 500</productname>
+        <condition>New</condition>
+        <price>2099</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>38</items>
+		<producttype>Laptops</producttype>
+		<image>laptop1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Microsoft500 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Microsoft500 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Microsoft500 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="007" retailer="Dell">
+        <productname>Dell 50</productname>
+        <condition>New</condition>
+        <price>499</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>76</items>
+		<producttype>Laptops</producttype>
+		<image>laptop2.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Dell50 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Dell50 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Dell50 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+	<laptop id="008" retailer="HP">
+        <productname>HP 1000</productname>
+        <condition>New</condition>
+        <price>1000</price>
+        <sale>Yes</sale>
+        <rebate>Yes</rebate>
+        <items>26</items>
+		<producttype>Laptops</producttype>
+		<image>laptop1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>HP1000 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>HP1000 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>HP1000 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+    <laptop id="009" retailer="HP">
+        <productname>HP 2000</productname>
+        <condition>New</condition>
+        <price>1399</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>55</items>
+	<producttype>Laptops</producttype>
+	<image>laptop3.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>HP2000 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>HP2000 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>HP2000 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+    <laptop id="010" retailer="HP">
+        <productname>HP 4000</productname>
+        <condition>New</condition>
+        <price>1999</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>36</items>
+	<producttype>Laptops</producttype>
+	<image>laptop1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>HP4000 mouse</productname>
+			<price>29</price>
+			<image>mouse.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>HP4000 backpack</productname>
+			<price>29</price>
+			<image>backpack.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>HP4000 keyboard</productname>
+			<price>29</price>
+			<image>keyboard.jpg</image>
+		</accessory>
+	</accessories>
+    </laptop>
+</LaptopCatalog>
+
+
+<ExternalStorageCatalog>
+    <externalstorage id="001" retailer="Seagate">
+        <productname>Seagate 1TB</productname>
+        <condition>New</condition>
+        <price>199</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>31</items>
+	<producttype>External-Storage</producttype>
+	<image>es1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Seagate 1TB case 1</productname>
+			<price>29</price>
+			<image>escase1.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Seagate 1TB connecting cable</productname>
+			<price>29</price>
+			<image>escable.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Seagate 1TB case 2</productname>
+			<price>29</price>
+			<image>escase2.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="002" retailer="Seagate">
+        <productname>Seagate 2TB</productname>
+        <condition>New</condition>
+        <price>299</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>26</items>
+        <producttype>External-Storage</producttype>
+        <image>es2.jpg</image>
+        <accessories>
+            <accessory id="001">
+                <productname>Seagate 2TB case 1</productname>
+                <price>29</price>
+                <image>escase1.jpg</image>
+            </accessory>
+            <accessory id="002">
+                <productname>Seagate 2TB connecting cable</productname>
+                <price>29</price>
+                <image>escable.jpg</image>
+            </accessory>
+            <accessory id="003">
+                <productname>Seagate 2TB case 2</productname>
+                <price>29</price>
+                <image>escase2.jpg</image>
+            </accessory>
+        </accessories>
+    </externalstorage>
+    <externalstorage id="003" retailer="Seagate">
+        <productname>Seagate 3TB</productname>
+        <condition>New</condition>
+        <price>499</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>67</items>
+	<producttype>External-Storage</producttype>
+	<image>es3.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Seagate 3TB case 1</productname>
+			<price>29</price>
+			<image>escase1.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Seagate 3TB connecting cable</productname>
+			<price>29</price>
+			<image>escable.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Seagate 3TB case 2</productname>
+			<price>29</price>
+			<image>escase2.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="004" retailer="Seagate">
+        <productname>Seagate 4TB</productname>
+        <condition>New</condition>
+        <price>599</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>20</items>
+	<producttype>External-Storage</producttype>
+	<image>es4.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Seagate 4TB case 1</productname>
+			<price>29</price>
+			<image>escase1.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Seagate 4TB connecting cable</productname>
+			<price>29</price>
+			<image>escable.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Seagate 4TB case 2</productname>
+			<price>29</price>
+			<image>escase2.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="005" retailer="HP">
+        <productname>HP 12GB Flash Drive</productname>
+        <condition>New</condition>
+        <price>29</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>46</items>
+	<producttype>External-Storage</producttype>
+	<image>es5.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>HP 12GB strap</productname>
+			<price>29</price>
+			<image>strap.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>HP 12GB box</productname>
+			<price>29</price>
+			<image>box.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>HP 12GB keychain</productname>
+			<price>29</price>
+			<image>keychain.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="006" retailer="HP">
+        <productname>HP 16GB Flash Drive</productname>
+        <condition>New</condition>
+        <price>39</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>77</items>
+	<producttype>External-Storage</producttype>
+	<image>es1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>HP 16GB strap</productname>
+			<price>29</price>
+			<image>strap.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>HP 16GB box</productname>
+			<price>29</price>
+			<image>box.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>HP 16GB keychain</productname>
+			<price>29</price>
+			<image>keychain.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="007" retailer="HP">
+        <productname>HP 32GB Flash Drive</productname>
+        <condition>New</condition>
+        <price>49</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>81</items>
+	<producttype>External-Storage</producttype>
+	<image>es6.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>HP 32GB strap</productname>
+			<price>29</price>
+			<image>strap.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>HP 32GB box</productname>
+			<price>29</price>
+			<image>box.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>HP 32GB keychain</productname>
+			<price>29</price>
+			<image>keychain.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="008" retailer="Samsung">
+        <productname>Samsung Memory Card 12GB</productname>
+        <condition>New</condition>
+        <price>19</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>83</items>
+	<producttype>External-Storage</producttype>
+	<image>es2.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung 12GB card reader 1</productname>
+			<price>29</price>
+			<image>cardreader.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung 12GB card case</productname>
+			<price>29</price>
+			<image>cardcase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung 12GB card reader 2</productname>
+			<price>29</price>
+			<image>cardreader.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="009" retailer="Samsung">
+        <productname>Samsung Memory Card 16GB</productname>
+        <condition>New</condition>
+        <price>34</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>45</items>
+	<producttype>External-Storage</producttype>
+	<image>es4.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung 16GB card reader 1</productname>
+			<price>29</price>
+			<image>cardreader.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung 16GB card case</productname>
+			<price>29</price>
+			<image>cardcase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung 16GB card reader 2</productname>
+			<price>29</price>
+			<image>cardreader.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+    <externalstorage id="010" retailer="Samsung">
+        <productname>Samsung Memory Card 24GB</productname>
+        <condition>New</condition>
+        <price>54</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>35</items>
+	<producttype>External-Storage</producttype>
+	<image>es6.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung 24GB card reader 1</productname>
+			<price>29</price>
+			<image>cardreader.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung 24GB card case</productname>
+			<price>29</price>
+			<image>cardcase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung 24GB card reader 2</productname>
+			<price>29</price>
+			<image>cardreader.jpg</image>
+		</accessory>
+	</accessories>
+    </externalstorage>
+</ExternalStorageCatalog>
+
+
+<PhoneCatalog>
+    <phone id="001" retailer="Apple">
+        <productname>iphone 5S</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>66</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Iphone5s cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Iphone5s case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Iphone5s screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="002" retailer="Apple">
+        <productname>iphone 6S</productname>
+        <condition>New</condition>
+        <price>799</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>32</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Iphone6s cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Iphone6s case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Iphone6s screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="003" retailer="Apple">
+        <productname>iphone 7</productname>
+        <condition>New</condition>
+        <price>999</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>44</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Iphone7 cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Iphone7 case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Iphone7 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+		<accessory id="004">
+			<productname>Apple earpod</productname>
+			<price>299</price>
+			<image>earpod.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="004" retailer="Apple">
+        <productname>iphone 8</productname>
+        <condition>New</condition>
+        <price>999</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>66</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Iphone8 cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Iphone8 case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Iphone8 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+		<accessory id="004">
+			<productname>Apple Earpod</productname>
+			<price>299</price>
+			<image>earpod.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="005" retailer="Samsung">
+        <productname>Samsung S8 </productname>
+        <condition>New</condition>
+        <price>575</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>61</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung S8 cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung S8 case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung S8 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+		<accessory id="004">
+			<productname>Samsung VR</productname>
+			<price>299</price>
+			<image>vr.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="006" retailer="Samsung">
+        <productname>Samsung S7</productname>
+        <condition>New</condition>
+        <price>475</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>26</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung S7 cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung S7 case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung S7 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+		<accessory id="004">
+			<productname>Samsung VR</productname>
+			<price>299</price>
+			<image>vr.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="007" retailer="Microsoft">
+        <productname>Lumia 710</productname>
+        <condition>New</condition>
+        <price>50</price>
+        <sale>Yes</sale>
+        <rebate>Yes</rebate>
+        <items>34</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Microsoft cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Microsoft case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Microsoft screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="008" retailer="Nokia">
+        <productname>Nokia X</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>36</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Nokia X cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Nokia X case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Nokia X screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+		<accessory id="004">
+			<productname>Nokia VR</productname>
+			<price>299</price>
+			<image>vr.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="009" retailer="Motorola">
+        <productname>Motorola G5</productname>
+        <condition>New</condition>
+        <price>599</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>16</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Motorola G5 cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Motorola G5 case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Motorola G5 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+    <phone id="010" retailer="Motorola">
+        <productname>Motorola G4</productname>
+        <condition>New</condition>
+        <price>499</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>56</items>
+	<producttype>Mobile</producttype>
+	<image>mobile1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Motorola G4 cable</productname>
+			<price>29</price>
+			<image>5scable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Motorola G4 case</productname>
+			<price>29</price>
+			<image>icase.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Motorola G4 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </phone>
+</PhoneCatalog>
+<SmartWatchCatalog>
+    <smartwatch id="001" retailer="Apple">
+        <productname>Apple Series 1</productname>
+        <condition>New</condition>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <price>299</price>
+        <items>32</items>
+	<producttype>Smart Watch</producttype>
+	<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Series1 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Series1 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Series1 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+
+    </smartwatch>
+    <smartwatch id="002" retailer="Apple">
+        <productname>Apple Series 2</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>45</items>
+	<producttype>Smart Watch</producttype>
+	<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Series2 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Series2 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Series2 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </smartwatch>
+    <smartwatch id="003" retailer="Apple">
+        <productname>Apple Series 3</productname>
+        <condition>New</condition>
+        <price>499</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>24</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Apple Series3 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Apple Series3 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Apple Series3 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </smartwatch>
+	<smartwatch id="004" retailer="Samsung">
+        <productname>Samsung Gear 1</productname>
+        <condition>New</condition>
+        <price>199</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>96</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung Gear1 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung Gear1 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung Gear1 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </smartwatch>
+	<smartwatch id="005" retailer="Samsung">
+        <productname>Samsung Gear 2</productname>
+        <condition>New</condition>
+        <price>299</price>
+        <sale>Yes</sale>
+        <rebate>Yes</rebate>
+        <items>85</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung Gear2 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung Gear2 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung Gear2 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+
+    </smartwatch>
+	<smartwatch id="006" retailer="Samsung">
+        <productname>Samsung Gear 3</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>66</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung Gear3 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung Gear3 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung Gear3 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+
+    </smartwatch>
+	<smartwatch id="007" retailer="Samsung">
+        <productname>Samsung Gear 4</productname>
+        <condition>New</condition>
+        <price>499</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>26</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung Gear4 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung Gear4 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung Gear4 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </smartwatch>
+	<smartwatch id="008" retailer="Samsung">
+        <productname>Samsung Gear 5</productname>
+        <condition>New</condition>
+        <price>599</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>12</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Samsung Gear5 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Samsung Gear5 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Samsung Gear5 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+
+    </smartwatch>
+	<smartwatch id="009" retailer="Motorola">
+        <productname>Motorola G1</productname>
+        <condition>New</condition>
+        <price>199</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>21</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Motorola G1 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Motorola G1 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Motorola G1 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+
+    </smartwatch>
+	<smartwatch id="010" retailer="Motorola">
+        <productname>Motorola G2</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>10</items>
+		<producttype>Smart Watch</producttype>
+		<image>sw1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Motorola G2 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Motorola G2 band</productname>
+			<price>29</price>
+			<image>band.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Motorola G2 screen protector</productname>
+			<price>29</price>
+			<image>screen.jpg</image>
+		</accessory>
+	</accessories>
+    </smartwatch>
+    
+</SmartWatchCatalog>
+<SpeakerCatalog>
+    <speaker id="001" retailer="JBL">
+        <productname>JBL 1</productname>
+        <condition>New</condition>
+        <price>199</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>JBL 1 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>JBL 1 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>JBL 1 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+
+    </speaker>
+	<speaker id="002" retailer="JBL">
+        <productname>JBL 2</productname>
+        <condition>New</condition>
+        <price>299</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>76</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>JBL 2 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>JBL 2 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>JBL 2 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="003" retailer="JBL">
+        <productname>JBL 3</productname>
+        <condition>New</condition>
+        <price>399</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>86</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>JBL 3 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>JBL 3 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>JBL 3 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="004" retailer="JBL">
+        <productname>JBL 4</productname>
+        <condition>New</condition>
+        <price>429</price>
+        <sale>Yes</sale>
+        <rebate>No</rebate>
+        <items>66</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>JBL 4 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>JBL 4 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>JBL 4 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="005" retailer="JBL">
+        <productname>JBL 5</productname>
+        <condition>New</condition>
+        <price>599</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>16</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>JBL 5 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>JBL 5 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>JBL 5 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="006" retailer="Bose">
+        <productname>Bose 1</productname>
+        <condition>New</condition>
+        <price>799</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>11</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Bose 1 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Bose 1 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Bose 1 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="007" retailer="Bose">
+        <productname>Bose 2</productname>
+        <condition>New</condition>
+        <price>899</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>16</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Bose 2 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Bose 2 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Bose 2 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="008" retailer="Bose">
+        <productname>Bose 3</productname>
+        <condition>New</condition>
+        <price>999</price>
+        <sale>Yes</sale>
+        <rebate>Yes</rebate>
+        <items>66</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Bose 3 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Bose 3 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Bose 3 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="009" retailer="Bose">
+        <productname>BOSE 4</productname>
+        <condition>New</condition>
+        <price>1099</price>
+        <sale>No</sale>
+        <rebate>No</rebate>
+        <items>36</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Bose 4 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Bose 4 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Bose 4 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+	<speaker id="010" retailer="Bose">
+        <productname>Bose 5</productname>
+        <condition>New</condition>
+        <price>1199</price>
+        <sale>No</sale>
+        <rebate>Yes</rebate>
+        <items>56</items>
+		<producttype>Speakers</producttype>
+		<image>speaker1.jpg</image>
+	<accessories>
+		<accessory id="001">
+			<productname>Bose 5 cable</productname>
+			<price>29</price>
+			<image>cable.jpg</image>
+		</accessory>
+		<accessory id="002">
+			<productname>Bose 5 stands</productname>
+			<price>29</price>
+			<image>stand.jpg</image>
+		</accessory>
+		<accessory id="003">
+			<productname>Bose 5 cases</productname>
+			<price>29</price>
+			<image>scases.jpg</image>
+		</accessory>
+	</accessories>
+    </speaker>
+</SpeakerCatalog>
+</ProductCatalog>
